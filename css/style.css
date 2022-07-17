@@ -1,0 +1,10 @@
+.navBar{
+    background-color: #292a87;
+    padding: 11px;
+}
+.links a{
+text-decoration: none !important;
+margin-left: 20px !important;
+padding-left:5px;
+padding-right:2px;
+}
